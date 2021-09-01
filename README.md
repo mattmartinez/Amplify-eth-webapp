@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Pre-req's 
 
+```
 npm install -g @aws-amplify/cli
 npm install --save aws-amplify @aws-amplify/ui-react
 npm install --save web3
@@ -14,3 +15,4 @@ amplify add auth
 amplify push
 amplify add hosting
 amplify publish
+```
